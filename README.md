@@ -1,1 +1,1 @@
-App for splash page. Deployed to Heroku
+### Heroku app for Mintick splash page
