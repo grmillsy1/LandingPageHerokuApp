@@ -1,0 +1,27 @@
+/*
+#bg {
+  position: fixed;
+  top: -50%;
+  left: -50%;
+  width: 100%;
+  height: 100%;
+}*/
+
+html {
+  background-image: url("https://images.unsplash.com/photo-1474910569322-ddc4a7368b8f?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=50151cc838e1f829ffdb8420392d32f6");
+  width:100%;
+  height: 100%;
+  background-position: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.overlay-photo {
+  background-image: url("https://s13.postimg.org/a7f35eh13/minticklast.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  width: auto;;
+  height: 306px;
+  z-index:1000;
+  top: 50%;
+}
